@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_message">Masukan Pesan</string>
+    <string name="send_message">Kirim</string>
+    <string name="titin">aplikasi berita</string>
+    <string name="titin1">5.000 Orang Masih Tertimbun di Palu dan Kesaksian tentang Orang-orang Hilang Ditelan Bumi   Artikel ini telah tayang di serambinews.com dengan judul 5.000 Orang Masih Tertimbun di Palu dan Kesaksian tentang Orang-orang Hilang Ditelan Bumi</string>
+    <string name="titin2">Rossi: MotoGP Thailand seperti Balapan Sepeda</string>
+    <string name="titin3">Ratna Sarumpaet Akan Ajukan Tahanan Kota, Ini Respons Polisi</string>
+    <string name="titin4">Curhat Bos Arema dan Tanggapan Komdis PSSI Soal Kerusuhan Suporter di Laga Arema FC vs Persebaya   Artikel ini telah tayang di banjarmasinpost.co.id dengan judul Curhat Bos Arema dan Tanggapan Komdis PSSI Soal Kerusuhan Suporter di Laga Arema FC vs Persebaya</string>
+</resources>
